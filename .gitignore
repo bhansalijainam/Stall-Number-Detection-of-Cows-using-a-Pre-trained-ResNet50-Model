@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.env.local
+.DS_Store
+/data/
+/data/*
+/models/
+/models/*
+*.pth
+*.pt
+*.ckpt
+*.zip
+.vscode/
